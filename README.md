@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz Gabriel</h1>
-<h3 align="center">A student of Analysis and Development Systems from Brazil🇧🇷</h3>
+<h3 align="center">A student of Analysis and Development Systems from Brazil 🇧🇷 </h3>
 
 - 🌱 I’m currently learning **Java and Python**
 
